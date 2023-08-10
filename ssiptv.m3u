@@ -1997,56 +1997,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=59508532-73e8-480a-a7ac-ca658e672783&userId=&serverSideAds=true
-#EXTINF:0, SERIES 3
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd000795ac87/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2616-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0cab4396-5ed7-45d4-8608-8045b2eae51f&userId=&serverSideAds=true
 #EXTINF:0, SERIES LATINAS
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66035293-500c-4b3d-8f02-dc855d5f476d&userId=&serverSideAds=true
-#EXTINF:0, VIWIX TV SERIES
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://s2.tvdatta.com:3402/hybrid/play.m3u8
-#EXTINF:0, Series con Ñ
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
-#EXTINF:0, 13 TELESERIES
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
-#EXTINF:0, * Series Latinas
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF:25, * Series
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1ac8f49205650007bc15f1-alt.m3u8
-#EXTINF:25, * Series
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:0, The Pet Collective
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1abf097eb06300079b30f7-alt.m3u8
-#EXTINF:0, Pluto TV Animales
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/600ae6a78d801e0007117d21-alt.m3u8
 #EXTINF:0, PLUTO TV ANIMALES
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -2057,21 +2012,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca00093
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80604634-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1735a645-8fe1-4cf4-96a3-62c1e4c43743&userId=&serverSideAds=true
-#EXTINF:0, * Animales
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
-#EXTINF:0, * Animales
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/600ae6a78d801e0007117d21-alt.m3u8
-#EXTINF:0, * Naturaleza
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
 #EXTINF:0, PLUTO TV NATURALEZA
 #EXTVLCOPT:network-caching=2000
 #EXTVLCOPT:network-caching=1000
@@ -2087,26 +2027,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00071-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef6ea5a4-5004-451b-bbdc-9dd3d9cc8614&userId=&serverSideAds=true
-#EXTINF:0, * Humor
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5e8397936791b30007ebb5a7-alt.m3u8
 #EXTINF:0, PLUTO TV HUMOR
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
-#EXTINF:0, * Cine Comedia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF:0, * Cine Comedia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f1ac8099c49f600076579b2-alt.m3u8
 #EXTINF:0, CINE COMEDIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -2117,11 +2042,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9679f680-433b-41b5-b65b-d3f9c407f275&userId=&serverSideAds=true
-#EXTINF:0, Comedy Central *
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
 #EXTINF:0, COMEDY CENTRAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -2137,76 +2057,21 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c681-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01d86952-90df-4d0a-b9ae-c63701be5b5c&userId=&serverSideAds=true
-#EXTINF:0, Comedy Central en español
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5cf96dad1652631e36d43320-alt.m3u8
 #EXTINF:0, SERIES COMEDIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d24-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b6b94ee-3d86-4a59-b406-f3548f232fe2&userId=&serverSideAds=true
-#EXTINF:0, Pluto TV Series Comedia
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
-#EXTINF:0, * Series Comedia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
-#EXTINF:0, Los Tres Chiflados
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-#EXTINF:0, MTV Teen Mom
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/604f81a49ef73300070e554f-alt.m3u8
-#EXTINF:0, * Teen Stars
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60016a60a8e3520008e0d331-alt.m3u8
-#EXTINF:25, Pluto TV Teen
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb944dc111bc0008fe7021-alt.m3u8
 #EXTINF:0, PLUTO TV TEEN STARS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7430-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0a77951-0789-4708-b820-e6bcefa8ee82&userId=&serverSideAds=true
-#EXTINF:25, Pluto TV Teen Stars
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/60016a60a8e3520008e0d331-alt.m3u8
-#EXTINF:25, * Teen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/63eb944dc111bc0008fe7021-alt.m3u8
-#EXTINF:25, * Teen
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
 #EXTINF:114, LEVEL UP TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/5202b1d3-ec72-47ce-ba98-4a0046647ae2/0.m3u8
-#EXTINF:0, CONTROL.VG
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://tls-cl.cdnz.cl/onradio-5/live/chunklist_w1280038521.m3u8
 #EXTINF:0, IGN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -2222,11 +2087,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449ed93-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8552379d-eb98-45b8-bf09-8d25de349206&userId=&serverSideAds=true
-#EXTINF:0, * Ciencia
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 #EXTINF:0, PLUTO TV CIENCIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -2247,11 +2107,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=3000
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:30, TechScience 365 
-#EXTVLCOPT:network-caching=2000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=3000
-https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:network-caching=3000
